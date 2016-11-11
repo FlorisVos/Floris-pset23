@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floris-pset2</string>
+    <string name="play_button_text">Click to play!</string>
+    <string name="Fill_in_word_text">Fill in words to complete the story!</string>
+    <string name="first_word_hint" />
+    <string name="first_word_text">First word:</string>
+</resources>
